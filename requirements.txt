@@ -1,0 +1,5 @@
+ultralytics==8.4.216
+opencv-python-headless==4.14.0.94
+pandas==2.3.3
+pyarrow==23.0.1
+
